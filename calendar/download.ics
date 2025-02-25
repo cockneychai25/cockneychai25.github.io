@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20250407T083000Z
+SUMMARY:Cockney CHAI 2025
+DTEND:20250407T160000Z
+DESCRIPTION:Cockney CHAI is a pre-CHI gathering for London-based HCI researchers and practitioners.
+LOCATION:[object Object], Strand Campus, Strand, London, WC2R 2LS
+END:VEVENT
+END:VCALENDAR
