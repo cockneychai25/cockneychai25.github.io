@@ -5,3 +5,9 @@
 :root {
   --bs-body-bg: var(--bs-gray-100);
 }
+
+@media only screen and (max-width: 500px){
+  .table-condensed{
+  font-size: 10px;
+  }
+}
